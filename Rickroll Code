@@ -1,0 +1,7 @@
+REM You may need to change the delay time depending on you computer
+DELAY 150
+GUI r
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 2000
+F11
